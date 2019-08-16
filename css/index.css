@@ -144,3 +144,20 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+
+/*ABOUT PAGE CSS*/
+.about-body{
+    width: 100%;
+}
+
+
+
+
+
+.nav-bar{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    justify-content: space-evenly;
+}
