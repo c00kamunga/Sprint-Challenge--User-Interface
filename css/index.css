@@ -160,4 +160,29 @@ footer nav a {
     justify-content: center;
     align-items: baseline;
     justify-content: space-evenly;
+    margin-top: 2rem;
+}
+
+.Sky-line{
+    margin-top: 2rem;
+    align-content: center;
+    width: 80%;
+}
+
+.about-header{
+    margin-top: 2rem;
+    padding: 0 8.5rem 1.5rem 8rem;
+    border-bottom: 2px dashed black;
+}
+
+.card-box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-top: 2rem;
+}
+
+.card{
+    width: 30rem;
+    
 }
