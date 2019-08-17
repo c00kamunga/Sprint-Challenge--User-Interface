@@ -184,5 +184,32 @@ footer nav a {
 
 .card{
     width: 30rem;
-    
+    padding: 0 0 2rem 0;
+    border-bottom: 2px dashed black;
+    margin: 0 0 2rem 0;
+}
+
+.learn-button{
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 10px 30px 10px 30px;
+    margin-top: 20px;
+}
+
+.learn-button:hover{
+    background-color: lightgreen;
+    text-decoration: none;
+    transform: rotate(30deg);
+    transition-duration: 800ms;
+}
+
+.bottom-para{
+    margin: 2rem 0 2rem 0;
+    padding: 0 8rem 0 8rem;
+    align-content: center;
+}
+
+.about-footer{
+    margin: 0 auto;
+    width: 85%;
 }
