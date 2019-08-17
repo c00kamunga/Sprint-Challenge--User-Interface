@@ -158,6 +158,10 @@ footer nav a {
     margin-top: 2rem;
 }
 
+.nav-bar a{
+    text-decoration: none;
+}
+
 .Sky-line{
     margin-top: 2rem;
     width: 80%;
